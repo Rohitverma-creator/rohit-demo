@@ -1,2 +1,2 @@
 # rohit-demo
-This is demo for Git And Github class
+This is demo for Git And Github class.
